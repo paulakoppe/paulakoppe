@@ -5,7 +5,7 @@ i'm:
 
 🌱 finishing my graduation in psychology <br>
 🔭 studying computer engineering and focusing on web development <br>
-💬 learning frontend development  
+🖥️ learning frontend development  
 
 how to contact me:
 
