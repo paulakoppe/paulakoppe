@@ -3,9 +3,9 @@
 
 i'm: 
 
-🌱 finishing my graduation in psychology <br>
-🔭 studying computer engineering and focusing on web development <br>
-🖥️ learning frontend development  
+🔭 studying systems analysis and development with a focus on web development
+🖥️ learning front and back-end development
+🌱 graduated in psychology
 
 how to contact me:
 
