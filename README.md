@@ -1,10 +1,8 @@
 ### hello 👋
-⚡ career changer
 
 i'm: 
 
-🔭 studying systems analysis and development with a focus on web development
-🖥️ learning front and back-end development
+🖥️ a back-end developer.
 🌱 graduated in psychology
 
 how to contact me:
